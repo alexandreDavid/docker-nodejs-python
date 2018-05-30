@@ -1,4 +1,4 @@
-FROM beevelop/nodejs:8
+FROM nodejs:8
 MAINTAINER Maik Hummel <m@ikhummel.com>
 
 # Install Python.
