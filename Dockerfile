@@ -1,4 +1,4 @@
 FROM python:latest
 
-RUN apt-get install -y nodejs
+RUN apt-get install npm
 RUN apt-get clean -y
